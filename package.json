@@ -1,0 +1,25 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "Binary Search Tree Data Structure for implemented with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "data-structure",
+    "binary",
+    "search",
+    "tree"
+  ],
+  "author": {
+    "email": "tomasp1189@gmail.com",
+    "name": "Tomas Puricelli"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2"
+  }
+}
