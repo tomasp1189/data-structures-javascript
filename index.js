@@ -1,4 +1,4 @@
-const binarySearchTree = require('./lib/binary-search-tree/binary-search-tree');
+const binarySearchTree = require('./lib/BinarySearchTree/binarySearchTree');
 
 const greatestCommonDivisor = require('./lib/algorithms/euclids');
 
