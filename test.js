@@ -1,1 +1,1 @@
-require('./lib/binary-search-tree/test');
+require('./lib/binary-search-tree/binary-search-tree.test');
