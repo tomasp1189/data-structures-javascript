@@ -1,6 +1,6 @@
-# Project Title
+# Data Structures and Algorithms
 
-Data structures built with javascript. Includes: Binary Search Tree, Hash Table and Linked Lists.
+Data structures and Algorithms built with javascript. Includes: Binary Search Tree, Hash Table and Linked Lists.
 
 ## Getting Started
 
