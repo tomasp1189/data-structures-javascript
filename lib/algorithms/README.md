@@ -14,6 +14,8 @@ How the time of execution of the algorithm varies with the size of input data. T
 - Best Case
 - Average Case
 
+log(n) <= √n <= n <= nlog(n) <= nˆ2 <= nˆ3 <= 2ˆn <= n!
+
 #### How to calculate
 
 We assume:
