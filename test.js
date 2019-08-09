@@ -9,4 +9,5 @@ describe('Algorithms', () => {
 describe('Exercises', () => {
   require('./exercises/Employee/employees.test');
   require('./exercises/hasDuplicateChars/hasDuplicateChars.test');
+  require('./exercises/anagrams/anagrams.test');
 });
