@@ -1,6 +1,7 @@
 describe('Data Structures', () => {
   require('./lib/dataStructures/BinarySearchTree/BinarySearchTree.test');
   require('./lib/dataStructures/LinkedList/LinkedList.test');
+  require('./lib/dataStructures/DoublyLinkedList/DoublyLinkedList.test');
 });
 describe('Algorithms', () => {
   require('./lib/algorithms/bubbleSort/bubbleSort.test');
